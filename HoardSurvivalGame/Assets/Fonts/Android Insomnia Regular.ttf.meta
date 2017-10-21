@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b359c788fb5a2d04c9536836b71b7923
+timeCreated: 1508542760
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Android Insomnia_
+  fontNames:
+  - Android Insomnia_
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
